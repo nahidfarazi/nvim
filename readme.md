@@ -31,3 +31,6 @@ echo "export PATH=$PATH:/usr/local/nvim/bin" >> ~/.zshrc
 git clone https://github.com/nahidfarazi/nvim.git ~/.config
 ```
 #### now in terminal type nvim then give command in vim :Lazy ->Shift+I
+
+### main documentation.
+[Neovim](https://github.com/neovim/neovim/releases/tag/v0.11.0)
